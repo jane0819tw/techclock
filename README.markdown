@@ -1,5 +1,5 @@
 # tech clock
-[web link]()
+[web link](https://jane0819tw.github.io/techclock/dist/.)
 ### skills
 <code>dat.gui</code>、<code>canvas</code>、<code>oop design</code>、<code>javascript</code>、<code>Math.sin()</code>。
 ### primitive function 
